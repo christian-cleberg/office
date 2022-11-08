@@ -1,3 +1,3 @@
-# Awfice
+# Office
 
-This is my personal modification of [awfice](https://github.com/zserge/awfice).
+A fork of [awfice](https://github.com/zserge/awfice).
